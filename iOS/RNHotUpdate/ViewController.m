@@ -44,7 +44,7 @@
 
 - (void)loadView {
     [super loadView];
-    RNViewManager *manager = [[RNViewManager alloc] initWithModule:@"Demo" properties:nil];
+    RNViewManager *manager = [[RNViewManager alloc] initWithModule:@"PACTestMain" properties:nil];
     self.view = [manager fetchRootView];
 }
 

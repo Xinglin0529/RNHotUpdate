@@ -21,6 +21,7 @@ def reactnative
         'RCTWebSocket',
         'RCTLinkingIOS'
     ]
+    pod 'Yoga', :path => '../node_modules/react-native/ReactCommon/yoga'
 end
 
 target 'RNHotUpdate' do

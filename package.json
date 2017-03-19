@@ -7,7 +7,7 @@
     "install": "^0.8.1",
     "md5": "^2.1.0",
     "react": "~15.4.1",
-    "react-native": "^0.39.2",
+    "react-native": "^0.42.0",
     "react-redux": "^4.4.5",
     "react-tween-state": "^0.1.5",
     "redux": "^3.5.2",
